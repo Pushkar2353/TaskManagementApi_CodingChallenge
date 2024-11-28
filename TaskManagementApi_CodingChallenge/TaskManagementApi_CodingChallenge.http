@@ -1,0 +1,6 @@
+@TaskManagementApi_CodingChallenge_HostAddress = http://localhost:5240
+
+GET {{TaskManagementApi_CodingChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
